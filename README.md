@@ -40,5 +40,5 @@ hours
 - Understand how data science tools are used.
 - Perform basic calculations in Python.
 ## Author
-Name: [Edith Maluquis]
+Name: [Leonardo Laureano]
 
