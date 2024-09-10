@@ -22,4 +22,22 @@ The most used data science libraries include:
 | RStudio               | Development environment for R                      |
 | Apache Hadoop         | Framework for big data processing                  |
 | Tableau               | Data visualization tool                            |
+## Examples of Arithmetic Expressions
+Some common arithmetic expressions are:
+- Addition: `5 + 3`
+- Multiplication: `6 * 7`
+# Multiplication and addition
+x = 5 * 7
+y = x + 10
+y
+# Convert minutes to hours
+minutes = 120
+hours = minutes / 60
+hours
+## Objectives
+- Learn the main languages and libraries in data science.
+- Understand how data science tools are used.
+- Perform basic calculations in Python.
+## Author
+Name: [Edith Maluquis]
 
